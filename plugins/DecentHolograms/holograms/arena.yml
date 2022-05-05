@@ -1,0 +1,32 @@
+location: world:-7487.500:67.000:-6984.500
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: true
+pages:
+- lines:
+  - content: <#B22AFE>&l&nPvP Arena Points Leaderboard</#ff8157>
+    height: 0.6
+  - content: '%deluxecombat_ranking_POINTS_1%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_2%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_3%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_4%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_5%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_6%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_7%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_8%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_9%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_POINTS_10%'
+    height: 0.3
+  actions: {}

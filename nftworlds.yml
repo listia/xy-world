@@ -1,0 +1,105 @@
+# This is the main configuration file for NFTWorldsServer.
+# If you need help with the configuration or have any questions related to NFTWorldsServer,
+# open a ticket in the NFTWorldsServer discord. Some options, primarily those under the entity
+# category, are for debugging purposes only.
+
+check-light-for-snow: false
+check-light-for-grass: false
+disable-ai-for-naturally-occurring-spawners: true
+disable-footsteps: true
+disable-mob-collisions: true
+disable-village-goals-for-spawner-hostiles: true
+fix-vehicle-teleports: true
+lava-catches-blocks-on-fire: false
+limit-passive-mobs: true
+max-entities-for-collisions: 50
+npc-speed-check: false
+optimize-chunk-lookups: true
+optimize-collision-chunk-lookups: true
+optimize-entity-chunk-lookups: true
+optimize-liquid: true
+optimize-spawners: true
+optimize-speed: true
+optimize-suffocation-checks: true
+optimize-tile-entities: true
+recursively-tick-multiple-passengers: false
+strip-spawner-mob-ai: true
+tick-inactive-goals: false
+tick-item-frame-maps: false
+tps-graph: true
+improve-villager-farms: false
+config-version: 1
+optimize-natural:
+  account-for-afk: true
+  only-underground: false
+  mob-ai: true
+  mob-processing: true
+  y-tolerance: 5
+async-entities:
+  enabled: true
+better-golem-farms:
+  enabled: true
+  ticks: 400
+iron-golem:
+  disable-stages: true
+entity:
+  ticks-between-general-path-creation: 4
+  ticks-between-entity-water-move-checks: 4
+  ticks-between-collision-checks: 1
+  ticks-between-slow-mob-collision-checks: 1
+  optimize-entity-movement: true
+  compensation: true
+  ticks-between-collisions: 5
+  activation-range-delay: 3
+  ticks-between-entity-despawn-checks: 7
+  ticks-between-entity-stuck-damage-check: 4
+  ticks-between-entity-water-checks: 4
+  entities-create-water-splash-particles: false
+  pick-up-items:
+    enabled: true
+    zombies-and-skeletons-bypass: true
+  item:
+    ticks-between-merge-search: 25
+    disable-merge-check-on-move: true
+    disable-water-particles-check: true
+entity-queue:
+  enabled: true
+  ms: 30
+optimized-entity-tracking:
+  threads: 5
+  enabled: true
+  partial: true
+mob:
+  mob-max-no-damage-ticks: 20
+  player-max-no-damage-ticks: 20
+  fire-and-lava-max-no-damage-ticks: 20
+  rod-max-no-damage-ticks: 20
+  show-death-particles: false
+prepackage:
+  geyser-and-floodgate: false
+  skript: false
+  viaversion: false
+tick-speed:
+  use-set-random-tick-speed: true
+  random-tick:
+    speed: 3
+spawner:
+  use-less-random-spawn-position: false
+  spawner-particles: false
+  min-spawn-delay: 200
+  max-spawn-delay: 800
+  spawn-count: 4
+  max-nearby-entities: 6
+  required-player-range: 16
+  spawn-range: 4
+  ignore-spawn-rules: true
+  initial-vertical-velocity: -1.0
+  checks:
+    light-level-check: false
+    spawner-max-nearby-check: true
+    check-for-nearby-players: true
+    spawner-block-checks: false
+    water-prevent-spawn-check: false
+tick-skipping:
+  cactus: 1
+  spawners: 1

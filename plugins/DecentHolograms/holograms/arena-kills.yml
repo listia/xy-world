@@ -1,0 +1,32 @@
+location: world:-7491.500:67.000:-6988.500
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: true
+pages:
+- lines:
+  - content: <#B22AFE>&l&nPvP Arena Kills Leaderboard</#ff8157>
+    height: 0.6
+  - content: '%deluxecombat_ranking_KILLS_1%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_2%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_3%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_4%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_5%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_6%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_7%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_8%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_9%'
+    height: 0.3
+  - content: '%deluxecombat_ranking_KILLS_10%'
+    height: 0.3
+  actions: {}

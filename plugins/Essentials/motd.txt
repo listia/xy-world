@@ -1,0 +1,4 @@
+&6Welcome to X,Y World, {PLAYER}&6!
+&6Type &c/island&6 to view your personal Island menu.
+&6Type &c/hub&6 to go to the main X,Y World hub.
+&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}

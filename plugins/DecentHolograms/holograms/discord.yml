@@ -1,0 +1,18 @@
+location: world:955.500:75.000:-575.500
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: true
+pages:
+- lines:
+  - content: <#B22AFE>&l&nJoin our Discord Server</#ff8157>
+    height: 0.3
+  - content: '&f(Right or left mouse click)'
+    height: 0.3
+  actions: 
+    LEFT:
+    - MESSAGE:&fOfficial X,Y World Discord >>> https://discord.gg/EHsPmJQVyv
+    RIGHT:
+    - MESSAGE:&fOfficial X,Y World Discord >>> https://discord.gg/EHsPmJQVyv

@@ -1,0 +1,7 @@
+---
+defaultColor: "BLUE"
+enabled:
+  "OFF": true
+  GREEN: true
+  BLUE: true
+  RED: true
