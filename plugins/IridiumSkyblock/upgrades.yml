@@ -203,8 +203,12 @@ oresUpgrade:
       money: 1000
       crystals: 15
       ores:
-        COBBLESTONE: 1000
+        IRON_ORE: 10
+        REDSTONE_ORE: 5
+        GOLD_ORE: 5
+        LAPIS_ORE: 5
         COAL_ORE: 250
+        COBBLESTONE: 1000
       netherOres:
         BASALT: 1
     2:
