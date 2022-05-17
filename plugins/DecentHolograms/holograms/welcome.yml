@@ -1,4 +1,4 @@
-location: world:960.500:75.000:-570.500
+location: world:960.500:77.000:-570.500
 enabled: true
 display-range: 64
 update-range: 64
@@ -13,7 +13,7 @@ pages:
     height: 0.6
   - content: '&a✔ &bPlay Skyblock and claim your private island: Type <#B22AFE>&l&n/island</#ff8157>'
     height: 0.6
-  - content: '&a✔ &bWarp to your X,Y Project coordinates in the HUB: Type <#B22AFE>&l&n/xy</#ff8157>'
+  - content: '&a✔ &bWarp to your X,Y Project coordinates in the HUB: Type <#B22AFE>&l&n/xy <x> <y></#ff8157>'
     height: 0.6
   - content: '&a✔ &bGo back to the spawn area in the HUB: Type <#B22AFE>&l&n/hub</#ff8157>'
     height: 0.6
