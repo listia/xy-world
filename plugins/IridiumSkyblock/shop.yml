@@ -35,7 +35,7 @@ categories:
     inventoryRows: 4
   Flowers:
     item:
-      material: "DANDELION"
+      material: "SUNFLOWER"
       amount: 1
       displayName: "&9&lFlowers"
       headData: null
@@ -816,7 +816,7 @@ items:
     lore: []
     command: null
     defaultAmount: 16
-    slot: 33
+    slot: 32
     buyCost:
       vault: 100.0
       crystals: 0
@@ -829,7 +829,7 @@ items:
     lore: []
     command: null
     defaultAmount: 16
-    slot: 34
+    slot: 33
     buyCost:
       vault: 100.0
       crystals: 0
@@ -842,7 +842,7 @@ items:
     lore: []
     command: null
     defaultAmount: 16
-    slot: 35
+    slot: 34
     buyCost:
       vault: 100.0
       crystals: 0
