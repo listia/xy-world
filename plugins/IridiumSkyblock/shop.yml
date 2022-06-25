@@ -33,6 +33,17 @@ categories:
       lore: []
       slot: 14
     inventoryRows: 4
+  Flowers:
+    item:
+      material: "DANDELION"
+      amount: 1
+      displayName: "&9&lFlowers"
+      headData: null
+      headOwner: null
+      headOwnerUUID: null
+      lore: []
+      slot: 20
+    inventoryRows: 5
   Farming:
     item:
       material: "WHEAT"
@@ -615,6 +626,228 @@ items:
       crystals: 0
     sellReward:
       vault: 10.0
+      crystals: 0
+  Flowers:
+  - name: "&9&lDandelion"
+    displayName: ""
+    type: "DANDELION"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 10
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lPoppy"
+    displayName: ""
+    type: "POPPY"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 11
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lBlue Orchid"
+    displayName: ""
+    type: "BLUE_ORCHID"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 12
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lAllium"
+    displayName: ""
+    type: "ALLIUM"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 13
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lAzure Bluet"
+    displayName: ""
+    type: "AZURE_BLUET"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 14
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lRed Tulip"
+    displayName: ""
+    type: "RED_TULIP"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 15
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lOrange Tulip"
+    displayName: ""
+    type: "ORANGE_TULIP"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 16
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lWhite Tulip"
+    displayName: ""
+    type: "WHITE_TULIP"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 19
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lPink Tulip"
+    displayName: ""
+    type: "PINK_TULIP"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 20
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lOxeye Daisy"
+    displayName: ""
+    type: "OXEYE_DAISY"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 21
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lCornflower"
+    displayName: ""
+    type: "CORNFLOWER"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 22
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lLily of the Valley"
+    displayName: ""
+    type: "LILY_OF_THE_VALLEY"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 23
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lWither Rose"
+    displayName: ""
+    type: "WITHER_ROSE"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 24
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lSunflower"
+    displayName: ""
+    type: "SUNFLOWER"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 25
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lLilac"
+    displayName: ""
+    type: "LILAC"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 33
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lRose Bush"
+    displayName: ""
+    type: "ROSE_BUSH"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 34
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
+      crystals: 0
+  - name: "&9&lPeony"
+    displayName: ""
+    type: "PEONY"
+    lore: []
+    command: null
+    defaultAmount: 16
+    slot: 35
+    buyCost:
+      vault: 100.0
+      crystals: 0
+    sellReward:
+      vault: 15.0
       crystals: 0
   Farming:
   - name: "&9&lWheat Seeds"
